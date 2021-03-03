@@ -1,4 +1,4 @@
-name: 'build-test'
+name: 'build-test-release'
 on: 
   workflow_dispatch:
   pull_request:
