@@ -1,0 +1,11 @@
+name: 'setup-sonar-scanner'
+description: 'setup sonar scanner'
+author: 'DPVO'
+inputs:
+  version: 
+    required: true
+    description: 'Version of Sonar Scanner'
+    default: '4.4.0.2170'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
