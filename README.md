@@ -1,0 +1,1 @@
+# setup-sonar-scanner
