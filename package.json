@@ -1,8 +1,8 @@
 {
-  "name": "typescript-action",
-  "version": "1.0.4",
+  "name": "setup-soner-scanner",
+  "version": "1.0.0",
   "private": true,
-  "description": "TypeScript template action",
+  "description": "Setup hte sonar scanner",
   "main": "lib/main.js",
   "scripts": {
     "build": "tsc",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mtbui01/action-template.git"
+    "url": "git+https://github.com/md-actions/setup-sonar-scanner.git"
   },
   "keywords": [
     "actions",
